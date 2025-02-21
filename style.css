@@ -1,6 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Cafe Menu</title>
-  </head>
-</html>
+body {
+  /*
+  background-color: burlywood;
+  */
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+#menu {
+  width: 300px;
+}
